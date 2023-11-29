@@ -12,4 +12,4 @@ Função que retorna a somatória da divisão de uma dezena
 - Valores somados e o total
 
 ## Author:
- - Sabrina Santos
+Feito com ❤️ por Sabrina M. Dos Santos 🚀
