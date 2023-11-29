@@ -1,7 +1,7 @@
 # javascriptCalculatorFunction | Documentação
 
 ## Description
-Função que retorna a soma de todos valores divisíveis recepcionados.
+Função que retorna a soma da divisão de uma dezena inteira
 
 ## Params
 -
