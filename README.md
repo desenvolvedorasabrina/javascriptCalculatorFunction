@@ -1,4 +1,4 @@
-# javascriptCalculatorFunction | Documentação
+# javascriptCalculatorFunction | Documentation
 
 ## Description
 Função que retorna a somatória da divisão de uma dezena
@@ -8,7 +8,7 @@ Função que retorna a somatória da divisão de uma dezena
 - mostrarSoma: printa os números acrescentados na soma
 - adiciona: resultado da função
 
-## Retorn
+## Return
 - Valores somados e o total
 
 ## Author:
